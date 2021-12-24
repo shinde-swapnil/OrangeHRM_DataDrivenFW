@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21850" started-at="2021-12-04T19:23:05 IST" finished-at="2021-12-04T19:23:27 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21850" started-at="2021-12-04T19:23:05 IST" finished-at="2021-12-04T19:23:27 IST">
+      <class name="testcases.TestCase1">
+        <test-method status="PASS" signature="start()[pri:0, instance:testcases.TestCase1@33c7e1bb]" name="start" is-config="true" duration-ms="8849" started-at="2021-12-04T19:23:05 IST" finished-at="2021-12-04T19:23:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="columnTest()[pri:0, instance:testcases.TestCase1@33c7e1bb]" name="columnTest" duration-ms="534" started-at="2021-12-04T19:23:14 IST" finished-at="2021-12-04T19:23:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- columnTest -->
+        <test-method status="PASS" signature="loginHrmTest()[pri:0, instance:testcases.TestCase1@33c7e1bb]" name="loginHrmTest" duration-ms="12082" started-at="2021-12-04T19:23:14 IST" finished-at="2021-12-04T19:23:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginHrmTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.TestCase1@33c7e1bb]" name="tearDown" is-config="true" duration-ms="344" started-at="2021-12-04T19:23:26 IST" finished-at="2021-12-04T19:23:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.TestCase1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
